@@ -1,1 +1,2 @@
 This a file from master branch.
+This file is from branch b1.
