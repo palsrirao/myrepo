@@ -1,1 +1,2 @@
-This file is from branch b1.
+This is file.
+This is not a file.
