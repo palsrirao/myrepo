@@ -1,4 +1,3 @@
 This is file.
 This is modification for stash.
-This is not a file.
 This line for stash command checking.
